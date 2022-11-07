@@ -1,0 +1,8 @@
+// это не команды для копирования, но очерёдность действий (!).
+git status
+git add
+git pull
+git push
+merge
+
+TEST YOUR CODE! Before push
